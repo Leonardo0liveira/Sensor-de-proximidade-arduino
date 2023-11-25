@@ -1,6 +1,5 @@
 /*******************************************************************************
-* RoboCore Kit Iniciante V8 - projeto Sensor de Ré
-* Acende e aciona o buzzer em função da distância que o objeto se localiza do sensor.
+ Projeto Sensor de Ré
 *******************************************************************************/ 
 #include <LiquidCrystal_I2C.h>
 #include <Wire.h>
